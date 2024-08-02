@@ -90,7 +90,7 @@ python src/download_models.py
 To run the AICoverGen WebUI, run the following command.
 
 ```
-python src/webui.py
+cccc
 ```
 
 | Flag                                       | Description |
